@@ -1,1 +1,2 @@
-This program was created by me a while ago and if I were to go back and remake this program I think there is a lot of things that I could improve.
+keycal.cpp was created by me a while ago and if I were to go back and remake this program I think there is a lot of things that I could improve.
+currencyConverter.py was a program created for a school asignment and if I went back, I think I could improve it.
